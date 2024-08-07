@@ -6,9 +6,9 @@ name: GDOFNO3RJ26JB0ELGFXROGEZKQ5HG5RXHSZTWZMUDHUX7BY74FP2OHQQ
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
-    branches: [ "main" ]
+    branches: [ "324" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "543" ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
